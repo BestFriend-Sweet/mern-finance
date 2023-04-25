@@ -1,10 +1,8 @@
 # mern-finance
 
-Create vite app
+MERN Finance Dashboard application developed with React and TypeScript
 
-MERN Finance Dashboard application developed with React and TypeScript.
-
-State management handled with Redux tookit.
+State management handled with Redux tookit
 
 The charts were created with Recharts library
 
